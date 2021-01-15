@@ -10,7 +10,7 @@
 
 ### Calendar
 - [ ] Changing google calendar events
-- [ ] Viewing full information about google calendar events
+- [ ] Viewing full information about google calendar events [#45](https://github.com/getweek/issues/issues/45)
 - [ ] Displaying multiple calendars
 - [ ] Connecting more then one account
 
