@@ -16,3 +16,4 @@
 
 ### Misc
 - [ ] Desktop app [#37](https://github.com/getweek/issues/issues/37)
+- [ ] Dark theme
