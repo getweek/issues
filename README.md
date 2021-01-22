@@ -1,4 +1,4 @@
-# [Week](https://app.getweek.pro/)
+# Week
  Week is an app where you can plan your schedule.
 
 ## Planned features
