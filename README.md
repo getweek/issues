@@ -16,4 +16,5 @@
 
 ### Misc
 - [ ] Desktop app [#37](https://github.com/getweek/issues/issues/37)
-- [ ] Dark theme
+- [ ] Dark theme [#82](https://github.com/getweek/issues/issues/82)
+- [ ] Hotkeys [#81](https://github.com/getweek/issues/issues/81)
